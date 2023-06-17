@@ -1,1 +1,2 @@
 Novo arquivo
+Não deve apresentar na master antes do merge
