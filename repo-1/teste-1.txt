@@ -1,2 +1,11 @@
 Novo arquivo
+<<<<<<< HEAD
 Não deve apresentar na master antes do merge
+=======
+s
+d
+f
+g
+h
+h
+>>>>>>> homol
